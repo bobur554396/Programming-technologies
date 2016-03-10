@@ -1,0 +1,7 @@
+D:\Distr\C Sharp\workspace\ProgrammingTech\Form\WindowsFormIntro\WindowsFormIntro\bin\Debug\WindowsFormIntro.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Form\WindowsFormIntro\WindowsFormIntro\bin\Debug\WindowsFormIntro.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\Form\WindowsFormIntro\WindowsFormIntro\obj\x86\Debug\WindowsFormIntro.Form1.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\Form\WindowsFormIntro\WindowsFormIntro\obj\x86\Debug\WindowsFormIntro.Properties.Resources.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\Form\WindowsFormIntro\WindowsFormIntro\obj\x86\Debug\WindowsFormIntro.csproj.GenerateResource.Cache
+D:\Distr\C Sharp\workspace\ProgrammingTech\Form\WindowsFormIntro\WindowsFormIntro\obj\x86\Debug\WindowsFormIntro.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Form\WindowsFormIntro\WindowsFormIntro\obj\x86\Debug\WindowsFormIntro.pdb

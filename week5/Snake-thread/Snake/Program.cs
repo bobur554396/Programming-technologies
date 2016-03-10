@@ -26,10 +26,8 @@ namespace Snake
 
             while (Game.isActive)
             {
-                Game.Draw();
-
+                //Game.Draw();
                 ConsoleKeyInfo pressedKey = Console.ReadKey();
-
                 switch (pressedKey.Key)
                 {
                     case ConsoleKey.UpArrow:

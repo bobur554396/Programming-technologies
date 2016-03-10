@@ -10,3 +10,5 @@ D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\ThreadTest\ThreadTest\b
 D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\ThreadTest\ThreadTest\obj\x86\Debug\ThreadTest.csprojResolveAssemblyReference.cache
 D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\Thread-with-class\ThreadTest\obj\x86\Debug\ThreadTest.exe
 D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\Thread-with-class\ThreadTest\obj\x86\Debug\ThreadTest.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5-data\week5\Thread-with-class\ThreadTest\obj\x86\Debug\ThreadTest.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5-data\week5\Thread-with-class\ThreadTest\obj\x86\Debug\ThreadTest.pdb

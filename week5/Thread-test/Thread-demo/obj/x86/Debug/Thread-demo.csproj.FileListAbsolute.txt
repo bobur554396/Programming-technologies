@@ -6,3 +6,5 @@ D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\Thread-demo\Thread-demo
 D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\Thread-demo\Thread-demo\obj\x86\Debug\Thread-demo.pdb
 D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\Thread-test\Thread-demo\obj\x86\Debug\Thread-demo.exe
 D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\Thread-test\Thread-demo\obj\x86\Debug\Thread-demo.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5-data\week5\Thread-test\Thread-demo\obj\x86\Debug\Thread-demo.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5-data\week5\Thread-test\Thread-demo\obj\x86\Debug\Thread-demo.pdb

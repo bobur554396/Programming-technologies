@@ -10,3 +10,8 @@ D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\Snake-thread\Snake\obj\
 D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\Snake-thread\Snake\obj\x86\Debug\Snake.pdb
 D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\Snake-thread\Snake\bin\Debug\Snake.exe
 D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5\Snake-thread\Snake\bin\Debug\Snake.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5-data\week5\Snake-thread\Snake\obj\x86\Debug\Snake.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5-data\week5\Snake-thread\Snake\obj\x86\Debug\Snake.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5-data\week5\Snake-thread\Snake\bin\Debug\Snake.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5-data\week5\Snake-thread\Snake\bin\Debug\Snake.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\Console\week5-data\week5\Snake-thread\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
