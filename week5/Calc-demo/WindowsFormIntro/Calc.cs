@@ -9,10 +9,11 @@ namespace WindowsFormIntro
     {
         public double first;
         public double second;
-        public double result;
+        private double result;
+        public string operation;
 
-        public void Calculate(string s){
-            switch (s) { 
+        public void Calculate(){
+            switch (operation) { 
                 case "+":
                     result = first + second;
                     break;

@@ -19,35 +19,35 @@ namespace WindowsFormIntro
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void numbers_click(object sender, EventArgs e)
         {
-            result.Text = calc.Result.ToString();
+            Button b = sender as Button;
+            display.Text += b.Text;
         }
 
-        private void sum_Click(object sender, EventArgs e)
+        private void operation_click(object sender, EventArgs e)
         {
-            calc.Calculate("+");
+            Button b = sender as Button;
+            calc.first = double.Parse(display.Text);
+            calc.operation = b.Text;
+            display.Text = "";
         }
 
-        private void subt_Click(object sender, EventArgs e)
+        private void result_click(object sender, EventArgs e)
         {
-            calc.Calculate("-");
+            calc.second = double.Parse(display.Text);
+            calc.Calculate();
+            display.Text = calc.Result.ToString();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void clear_all(object sender, EventArgs e)
         {
-            string s = textBox1.Text;
-            if (!double.TryParse(s, out calc.first))
-                textBox1.Text = "";
+            calc.first = 0;
+            calc.second = 0;
+            calc.Result = 0;
+            calc.operation = "";
+            display.Text = "";
         }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-            string s = textBox2.Text;
-            if (!double.TryParse(s, out calc.second))
-                textBox2.Text = "";
-        }
-
 
     }
 }
