@@ -1,0 +1,7 @@
+D:\Distr\C Sharp\workspace\ProgrammingTech\DrawImage\DrawImage\bin\Debug\DrawImage.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\DrawImage\DrawImage\bin\Debug\DrawImage.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\DrawImage\DrawImage\obj\x86\Debug\DrawImage.Form1.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\DrawImage\DrawImage\obj\x86\Debug\DrawImage.Properties.Resources.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\DrawImage\DrawImage\obj\x86\Debug\DrawImage.csproj.GenerateResource.Cache
+D:\Distr\C Sharp\workspace\ProgrammingTech\DrawImage\DrawImage\obj\x86\Debug\DrawImage.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\DrawImage\DrawImage\obj\x86\Debug\DrawImage.pdb
