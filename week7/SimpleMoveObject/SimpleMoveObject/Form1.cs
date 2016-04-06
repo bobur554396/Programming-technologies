@@ -21,6 +21,7 @@ namespace SimpleMoveObject
         float h = 100;
 
         float dx = 10;
+        float dy = 10;
 
         public Form1()
         {
@@ -41,8 +42,17 @@ namespace SimpleMoveObject
                 dx = 10;
             }
 
+            if (y + h > Height) 
+            {
+                dy = -10;
+            }
+            else if (y < 0) 
+            {
+                dy = 10;
+            }
+
             x += dx;
-            //y += 10;
+            y += dy;
             Refresh();
         }
 

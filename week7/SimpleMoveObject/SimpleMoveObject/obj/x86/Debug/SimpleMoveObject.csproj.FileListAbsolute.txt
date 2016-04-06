@@ -5,3 +5,10 @@ D:\Distr\C Sharp\workspace\ProgrammingTech\SimpleMoveObject\SimpleMoveObject\obj
 D:\Distr\C Sharp\workspace\ProgrammingTech\SimpleMoveObject\SimpleMoveObject\obj\x86\Debug\SimpleMoveObject.csproj.GenerateResource.Cache
 D:\Distr\C Sharp\workspace\ProgrammingTech\SimpleMoveObject\SimpleMoveObject\obj\x86\Debug\SimpleMoveObject.exe
 D:\Distr\C Sharp\workspace\ProgrammingTech\SimpleMoveObject\SimpleMoveObject\obj\x86\Debug\SimpleMoveObject.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\SimpleMoveObject\SimpleMoveObject\obj\x86\Debug\SimpleMoveObject.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\SimpleMoveObject\SimpleMoveObject\obj\x86\Debug\SimpleMoveObject.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\SimpleMoveObject\SimpleMoveObject\bin\Debug\SimpleMoveObject.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\SimpleMoveObject\SimpleMoveObject\bin\Debug\SimpleMoveObject.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\SimpleMoveObject\SimpleMoveObject\obj\x86\Debug\SimpleMoveObject.Form1.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\SimpleMoveObject\SimpleMoveObject\obj\x86\Debug\SimpleMoveObject.Properties.Resources.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\SimpleMoveObject\SimpleMoveObject\obj\x86\Debug\SimpleMoveObject.csproj.GenerateResource.Cache

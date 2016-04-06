@@ -42,17 +42,17 @@ namespace Paint_with_class
 
         private void button1_Click(object sender, EventArgs e)
         {
-            drawer.tool = Tool.Pencil;
+            drawer.shape = Shape.Pencil;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            drawer.tool = Tool.Rectangle;
+            drawer.shape = Shape.Rectangle;
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            drawer.tool = Tool.Circle;
+            drawer.shape = Shape.Circle;
         }
 
         private void button4_Click(object sender, EventArgs e)

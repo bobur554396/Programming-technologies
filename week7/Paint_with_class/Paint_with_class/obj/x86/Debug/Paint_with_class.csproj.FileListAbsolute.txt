@@ -5,3 +5,10 @@ D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_with_class\Paint_with_class\obj
 D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.csproj.GenerateResource.Cache
 D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.exe
 D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_with_class\Paint_with_class\bin\Debug\Paint_with_class.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_with_class\Paint_with_class\bin\Debug\Paint_with_class.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.Form1.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.Properties.Resources.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.csproj.GenerateResource.Cache

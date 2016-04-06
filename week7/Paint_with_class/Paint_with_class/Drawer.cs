@@ -7,14 +7,14 @@ using System.Windows.Forms;
 
 namespace Paint_with_class
 {
-    public enum Tool { Pencil, Rectangle, Circle };
+    public enum Shape { Pencil, Rectangle, Circle };
 
     class Drawer
     {
         private Graphics g;
         private Bitmap btm;
         private PictureBox picture;
-        public Tool tool;
+        public Shape shape;
         public Pen pen;
 
         public bool paintStarted = false;
@@ -26,35 +26,26 @@ namespace Paint_with_class
             g = Graphics.FromImage(btm);
             picture.Image = btm;
             pen = new Pen(Color.Red);
-
         }
 
 
         public void Draw(Point cur) {
 
-            switch (tool) 
+            switch (shape) 
             { 
-                case Tool.Pencil:
+                case Shape.Pencil:
                     g.DrawLine(pen, prev, cur);
                     prev = cur;
                     break;
-                case Tool.Rectangle:
+                case Shape.Rectangle:
                     break;
-                case Tool.Circle:
+                case Shape.Circle:
                     break;
                 default:
                     break;
             }
             picture.Refresh();
         }
-
-
-
-        public void Save() 
-        {
-            btm.Save("1.jpg");    
-        }
-
 
 
 
