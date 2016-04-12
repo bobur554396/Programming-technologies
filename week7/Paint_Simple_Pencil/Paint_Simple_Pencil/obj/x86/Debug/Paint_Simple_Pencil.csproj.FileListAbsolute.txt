@@ -5,3 +5,5 @@ D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Simple_Pencil\Paint_Simple_Penc
 D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Simple_Pencil\Paint_Simple_Pencil\obj\x86\Debug\Paint_Simple_Pencil.csproj.GenerateResource.Cache
 D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Simple_Pencil\Paint_Simple_Pencil\obj\x86\Debug\Paint_Simple_Pencil.exe
 D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Simple_Pencil\Paint_Simple_Pencil\obj\x86\Debug\Paint_Simple_Pencil.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_Simple_Pencil\Paint_Simple_Pencil\obj\x86\Debug\Paint_Simple_Pencil.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_Simple_Pencil\Paint_Simple_Pencil\obj\x86\Debug\Paint_Simple_Pencil.pdb

@@ -6,3 +6,5 @@ D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_with_class\Paint_with_class\obj
 D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.exe
 D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.pdb
 D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_with_class\Paint_with_class\obj\x86\Debug\Paint_with_class.csprojResolveAssemblyReference.cache
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_with_Graphics_Path\Paint_with_class\obj\x86\Debug\Paint_with_class.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\main-data\week7\Paint_with_Graphics_Path\Paint_with_class\obj\x86\Debug\Paint_with_class.pdb
