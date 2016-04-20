@@ -1,0 +1,7 @@
+D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer\Change_BG_Timer\obj\x86\Debug\Change_BG_Timer.Form1.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer\Change_BG_Timer\obj\x86\Debug\Change_BG_Timer.Properties.Resources.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer\Change_BG_Timer\obj\x86\Debug\Change_BG_Timer.csproj.GenerateResource.Cache
+D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer\Change_BG_Timer\bin\Debug\Change_BG_Timer.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer\Change_BG_Timer\bin\Debug\Change_BG_Timer.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer\Change_BG_Timer\obj\x86\Debug\Change_BG_Timer.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer\Change_BG_Timer\obj\x86\Debug\Change_BG_Timer.pdb

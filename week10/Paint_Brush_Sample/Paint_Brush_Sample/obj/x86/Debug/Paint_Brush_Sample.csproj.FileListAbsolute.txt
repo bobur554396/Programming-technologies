@@ -1,0 +1,7 @@
+D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Brush_Sample\Paint_Brush_Sample\bin\Debug\Paint_Brush_Sample.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Brush_Sample\Paint_Brush_Sample\bin\Debug\Paint_Brush_Sample.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Brush_Sample\Paint_Brush_Sample\obj\x86\Debug\Paint_Brush_Sample.Form1.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Brush_Sample\Paint_Brush_Sample\obj\x86\Debug\Paint_Brush_Sample.Properties.Resources.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Brush_Sample\Paint_Brush_Sample\obj\x86\Debug\Paint_Brush_Sample.csproj.GenerateResource.Cache
+D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Brush_Sample\Paint_Brush_Sample\obj\x86\Debug\Paint_Brush_Sample.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Paint_Brush_Sample\Paint_Brush_Sample\obj\x86\Debug\Paint_Brush_Sample.pdb

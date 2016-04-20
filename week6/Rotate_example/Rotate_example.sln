@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate_example", "Rotate_example\Rotate_example.csproj", "{FCB7DBA1-4FE1-44D1-AF87-A0725C579504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB7DBA1-4FE1-44D1-AF87-A0725C579504}.Debug|x86.ActiveCfg = Debug|x86
+		{FCB7DBA1-4FE1-44D1-AF87-A0725C579504}.Debug|x86.Build.0 = Debug|x86
+		{FCB7DBA1-4FE1-44D1-AF87-A0725C579504}.Release|x86.ActiveCfg = Release|x86
+		{FCB7DBA1-4FE1-44D1-AF87-A0725C579504}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

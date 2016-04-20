@@ -1,0 +1,7 @@
+D:\Distr\C Sharp\workspace\ProgrammingTech\Mouse_click_event\Mouse_click_event\bin\Debug\Mouse_click_event.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Mouse_click_event\Mouse_click_event\bin\Debug\Mouse_click_event.pdb
+D:\Distr\C Sharp\workspace\ProgrammingTech\Mouse_click_event\Mouse_click_event\obj\x86\Debug\Mouse_click_event.Form1.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\Mouse_click_event\Mouse_click_event\obj\x86\Debug\Mouse_click_event.Properties.Resources.resources
+D:\Distr\C Sharp\workspace\ProgrammingTech\Mouse_click_event\Mouse_click_event\obj\x86\Debug\Mouse_click_event.csproj.GenerateResource.Cache
+D:\Distr\C Sharp\workspace\ProgrammingTech\Mouse_click_event\Mouse_click_event\obj\x86\Debug\Mouse_click_event.exe
+D:\Distr\C Sharp\workspace\ProgrammingTech\Mouse_click_event\Mouse_click_event\obj\x86\Debug\Mouse_click_event.pdb
