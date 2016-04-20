@@ -1,7 +1,0 @@
-D:\Distr\C Sharp\workspace\ProgrammingTech\Rotate_example\Rotate_example\bin\Debug\Rotate_example.exe
-D:\Distr\C Sharp\workspace\ProgrammingTech\Rotate_example\Rotate_example\bin\Debug\Rotate_example.pdb
-D:\Distr\C Sharp\workspace\ProgrammingTech\Rotate_example\Rotate_example\obj\x86\Debug\Rotate_example.Form1.resources
-D:\Distr\C Sharp\workspace\ProgrammingTech\Rotate_example\Rotate_example\obj\x86\Debug\Rotate_example.Properties.Resources.resources
-D:\Distr\C Sharp\workspace\ProgrammingTech\Rotate_example\Rotate_example\obj\x86\Debug\Rotate_example.csproj.GenerateResource.Cache
-D:\Distr\C Sharp\workspace\ProgrammingTech\Rotate_example\Rotate_example\obj\x86\Debug\Rotate_example.exe
-D:\Distr\C Sharp\workspace\ProgrammingTech\Rotate_example\Rotate_example\obj\x86\Debug\Rotate_example.pdb

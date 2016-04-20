@@ -1,2 +1,0 @@
-# Programming-technologies
-GOOD LUCK :)

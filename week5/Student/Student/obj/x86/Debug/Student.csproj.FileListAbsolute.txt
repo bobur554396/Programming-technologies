@@ -1,4 +1,0 @@
-D:\Distr\C Sharp\workspace\ProgrammingTech\Student\Student\bin\Debug\Student.exe
-D:\Distr\C Sharp\workspace\ProgrammingTech\Student\Student\bin\Debug\Student.pdb
-D:\Distr\C Sharp\workspace\ProgrammingTech\Student\Student\obj\x86\Debug\Student.exe
-D:\Distr\C Sharp\workspace\ProgrammingTech\Student\Student\obj\x86\Debug\Student.pdb

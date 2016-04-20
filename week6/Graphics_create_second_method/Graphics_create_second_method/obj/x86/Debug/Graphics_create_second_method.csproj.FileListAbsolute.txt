@@ -1,7 +1,0 @@
-D:\Distr\C Sharp\workspace\ProgrammingTech\Graphics_create_second_method\Graphics_create_second_method\bin\Debug\Graphics_create_second_method.exe
-D:\Distr\C Sharp\workspace\ProgrammingTech\Graphics_create_second_method\Graphics_create_second_method\bin\Debug\Graphics_create_second_method.pdb
-D:\Distr\C Sharp\workspace\ProgrammingTech\Graphics_create_second_method\Graphics_create_second_method\obj\x86\Debug\Graphics_create_second_method.Form1.resources
-D:\Distr\C Sharp\workspace\ProgrammingTech\Graphics_create_second_method\Graphics_create_second_method\obj\x86\Debug\Graphics_create_second_method.Properties.Resources.resources
-D:\Distr\C Sharp\workspace\ProgrammingTech\Graphics_create_second_method\Graphics_create_second_method\obj\x86\Debug\Graphics_create_second_method.csproj.GenerateResource.Cache
-D:\Distr\C Sharp\workspace\ProgrammingTech\Graphics_create_second_method\Graphics_create_second_method\obj\x86\Debug\Graphics_create_second_method.exe
-D:\Distr\C Sharp\workspace\ProgrammingTech\Graphics_create_second_method\Graphics_create_second_method\obj\x86\Debug\Graphics_create_second_method.pdb

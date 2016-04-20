@@ -1,7 +1,0 @@
-D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer_second_method\Change_BG_Timer_second_method\bin\Debug\Change_BG_Timer_second_method.exe
-D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer_second_method\Change_BG_Timer_second_method\bin\Debug\Change_BG_Timer_second_method.pdb
-D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer_second_method\Change_BG_Timer_second_method\obj\x86\Debug\Change_BG_Timer_second_method.Form1.resources
-D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer_second_method\Change_BG_Timer_second_method\obj\x86\Debug\Change_BG_Timer_second_method.Properties.Resources.resources
-D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer_second_method\Change_BG_Timer_second_method\obj\x86\Debug\Change_BG_Timer_second_method.csproj.GenerateResource.Cache
-D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer_second_method\Change_BG_Timer_second_method\obj\x86\Debug\Change_BG_Timer_second_method.exe
-D:\Distr\C Sharp\workspace\ProgrammingTech\Change_BG_Timer_second_method\Change_BG_Timer_second_method\obj\x86\Debug\Change_BG_Timer_second_method.pdb

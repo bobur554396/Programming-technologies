@@ -1,7 +1,0 @@
-D:\Distr\C Sharp\workspace\ProgrammingTech\BitMap\BitMap\bin\Debug\BitMap.exe
-D:\Distr\C Sharp\workspace\ProgrammingTech\BitMap\BitMap\bin\Debug\BitMap.pdb
-D:\Distr\C Sharp\workspace\ProgrammingTech\BitMap\BitMap\obj\x86\Debug\BitMap.Form1.resources
-D:\Distr\C Sharp\workspace\ProgrammingTech\BitMap\BitMap\obj\x86\Debug\BitMap.Properties.Resources.resources
-D:\Distr\C Sharp\workspace\ProgrammingTech\BitMap\BitMap\obj\x86\Debug\BitMap.csproj.GenerateResource.Cache
-D:\Distr\C Sharp\workspace\ProgrammingTech\BitMap\BitMap\obj\x86\Debug\BitMap.exe
-D:\Distr\C Sharp\workspace\ProgrammingTech\BitMap\BitMap\obj\x86\Debug\BitMap.pdb
