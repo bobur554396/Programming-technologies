@@ -1,4 +1,4 @@
-# There are will be 4 problems
+# Will be about 4 problems
 
 * 1) Console applicaton. Task for I/O streams. For instance, write to file something or read form file...
 * 2) Windows Form compoments. Task for checking your knowledge about windows components (check all components in ToolBox). For instance, create some window interface.
