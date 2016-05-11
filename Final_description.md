@@ -6,7 +6,7 @@ There are will be 4 problems
 * 4) Graphcis + Thimer/Thread. Task for moving some object using some rule.
 
 P.S. Might be additional task 
-5) SURPISE
+* 5) SURPISE
 
 
 
